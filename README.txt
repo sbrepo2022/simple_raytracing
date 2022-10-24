@@ -1,0 +1,1 @@
+Simple raytracing project on pure c++
